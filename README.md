@@ -2,7 +2,7 @@
 
 ![Metrics](/github-metrics.svg)
 
-#### 💡 Main Experience with:
+#### 💡 Main Experience in:
 <img alt="Laravel" align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 <img alt="Livewire" align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" />
 <img alt="Tailwind" align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
